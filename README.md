@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/60816007/161092897-814ba423-ba72-42a5-9f2f-0106c0c82da8.png)
+)
 
 
 ## My process
